@@ -6,4 +6,4 @@ Here you can look at my code examples:
 - [Web Scrapping](https://github.com/vkolotilin/Code-Examples/tree/main/Web%20Scrapping)
 
 Other code examples:
-- [LeetCode practice](https://leetcode.com/u/Semp1ternal/)
+- SQL [LeetCode practice](https://leetcode.com/u/Semp1ternal/)
