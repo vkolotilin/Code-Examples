@@ -8,7 +8,7 @@ Here you can look at my code examples:
 - [Numpy and other math tasks](https://github.com/vkolotilin/Code-Examples/tree/main/Numpy%20and%20other%20math%20tasks)
 
 Test assigments:  
-- [SQL](https://github.com/vkolotilin/Code-Examples/tree/main/SQL%20test%20assignments)  
+- [SQL test assignments](https://github.com/vkolotilin/Code-Examples/tree/main/SQL%20test%20assignments)  
 
 Other code examples:  
-- SQL [LeetCode practice](https://leetcode.com/u/Semp1ternal/)
+- [SQL LeetCode practice](https://leetcode.com/u/Semp1ternal/)
