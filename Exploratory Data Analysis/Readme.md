@@ -1,0 +1,1 @@
+also every Jyputer Notebook in [ML models practice](https://github.com/vkolotilin/Code-Examples/tree/main/Machine%20Learning%20Models%20practice) folder has an EDA (Exploratory Data Analysis) section
